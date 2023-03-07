@@ -1,4 +1,4 @@
-# CS 4483: Brew Blitz (Prototype)
+# CS 4483: Brew Blitz ☕ (Prototype)
 
 This is a **prototype** game made by Connor Haines for CS 4483 at Western University. This is a **Horizontal Slice** prototype.
 
