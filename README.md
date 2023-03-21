@@ -1,6 +1,8 @@
 # CS 4483: Brew Blitz ☕ (Prototype)
 
-This is a **prototype** game made by Connor Haines for CS 4483 at Western University. This is a **Horizontal Slice** prototype.
+This is a **prototype** game made by Connor Haines for CS 4483 at Western University. This is a **Horizontal Slice** prototype based on this [Initial Game Pitch](InitialGamePitch.pdf).
+
+Video Demo: https://www.youtube.com/watch?v=SmjsCvRof7Q
 
 ## Features
 
@@ -17,7 +19,7 @@ This prototype was made with Unity 2D 2020.3.45 and C#, featuring assets from _'
 
 > To run the game, extract the _Builds.zip_ folder and run the _BrewBlitz.exe_ file.
 
-To view the source code and assets, load the project using Unity 2020.3.45.
+To view the source code and assets, extract _Brew Blitz Source Code.zip_ and load the project using Unity 2020.3.45.
 
 ## How to Play / Controls
 
